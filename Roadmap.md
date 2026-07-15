@@ -40,11 +40,11 @@
 - [x] `git status`
 - [x] `git add`
 - [x] `git commit`
-- [ ] `git log`
-- [ ] 🆕 `git branch` (criar, listar, trocar de branch)
-- [ ] 🆕 `git merge` e como resolver um conflito simples
-- [ ] 🆕 `git clone`
-- [ ] 🆕 `git remote`, `git push`, `git pull`
+- [X] `git log`
+- [X] 🆕 `git branch` (criar, listar, trocar de branch)
+- [X] 🆕 `git merge` e como resolver um conflito simples
+- [X] 🆕 `git clone`
+- [X] 🆕 `git remote`, `git push`, `git pull`
 - [X] `.gitignore`
 - [X] repositório no GitHub
 
