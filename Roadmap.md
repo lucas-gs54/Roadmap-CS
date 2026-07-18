@@ -86,14 +86,14 @@ Faça um conversor de unidades no terminal: temperatura, peso, distância e moed
 
 ### Conversões
 
-- [ ] Conversão implícita e explícita
-- [ ] Casting
-- [ ] `Convert`
-- [ ] `Parse`
-- [ ] `TryParse`
-- [ ] `ToString`
-- [ ] Cultura e formatação: data, moeda, números decimais
-- [ ] Por que nunca confiar diretamente em entrada do usuário
+- [X] Conversão implícita e explícita
+- [X] Casting
+- [X] `Convert`
+- [X] `Parse`
+- [X] `TryParse`
+- [X] `ToString`
+- [X] Cultura e formatação: data, moeda, números decimais
+- [X] Por que nunca confiar diretamente em entrada do usuário
 
 ### Operadores
 
