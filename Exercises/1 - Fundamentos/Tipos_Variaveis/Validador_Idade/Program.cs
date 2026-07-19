@@ -1,4 +1,3 @@
-// Pede o ano de nascimento do usuário
 Console.WriteLine("Qual seu ano de nascimento?");
 int birthdayYear = int.Parse(Console.ReadLine()!);
 int currentYear = DateTime.Today.Year;
