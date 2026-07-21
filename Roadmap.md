@@ -97,14 +97,14 @@ Faça um conversor de unidades no terminal: temperatura, peso, distância e moed
 
 ### Operadores
 
-- [ ] Aritméticos
-- [ ] Atribuição
-- [ ] Comparação
-- [ ] Lógicos: `&&`, `||`, `!`
-- [ ] Incremento e decremento
-- [ ] Operador ternário
-- [ ] Precedência de operadores
-- [ ] Curto-circuito lógico
+- [X] Aritméticos
+- [X] Atribuição
+- [X] Comparação
+- [X] Lógicos: `&&`, `||`, `!`
+- [X] Incremento e decremento
+- [X] Operador ternário
+- [X] Precedência de operadores
+- [X] Curto-circuito lógico
 
 ### Controle de fluxo
 
